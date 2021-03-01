@@ -1,0 +1,8 @@
+astropy
+matplotlib
+scipy
+numpy
+matplotlib
+ipywidgets
+healpy
+
