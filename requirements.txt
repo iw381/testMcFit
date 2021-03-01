@@ -3,6 +3,4 @@ matplotlib
 scipy
 numpy
 matplotlib
-ipywidgets
-healpy
-
+mcfit
